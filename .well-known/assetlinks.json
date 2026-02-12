@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hbtf",
+      "sha256_cert_fingerprints": [
+        "6E:AD:71:C5:84:2F:D0:2C:26:CD:2E:DB:E0:52:E8:8D:79:DE:9C:CE:D0:3D:45:31:91:3D:6C:54:E9:2D:86:1B"
+      ]
+    }
+  }
+]
