@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "U95YR7D786.com.hbtf.jo",
-        "paths": [ "/open*" ]
+        "paths": [ "/universal-test/open*" ]
       }
     ]
   }
